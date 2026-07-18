@@ -17,12 +17,14 @@ Currently, I'm focused on **Full Stack Development**, while continuously expandi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Verse](https://img.shields.io/badge/Verse-5A45FF?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
@@ -75,7 +77,7 @@ Collection of reusable gameplay systems and custom devices developed in Verse fo
 - Clean Architecture
 - Docker
 - Cybersecurity
-- Artificial Intelligence
+- Building AI-powered applications
 - Software Design Patterns
 
 ---
@@ -83,7 +85,7 @@ Collection of reusable gameplay systems and custom devices developed in Verse fo
 ## 📫 Contact
 
 - 💼 LinkedIn *(coming soon)*
-- 📧 Email: your@email.com
+- 📧 Email: gianlucarone@gmail.com
 
 ---
 
